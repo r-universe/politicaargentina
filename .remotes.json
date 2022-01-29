@@ -2,6 +2,12 @@
   {
     "package": "discursAr",
     "url": "https://github.com/PoliticaArgentina/discursAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
+  },
+  {
+    "package": "discursAr",
+    "url": "https://github.com/PoliticaArgentina/discursAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
@@ -14,6 +20,12 @@
   {
     "package": "electorAr",
     "url": "https://github.com/PoliticaArgentina/electorAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
+  },
+  {
+    "package": "electorAr",
+    "url": "https://github.com/PoliticaArgentina/electorAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
@@ -26,6 +38,12 @@
   {
     "package": "geoAr",
     "url": "https://github.com/PoliticaArgentina/geoAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
+  },
+  {
+    "package": "geoAr",
+    "url": "https://github.com/PoliticaArgentina/geoAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
@@ -38,6 +56,12 @@
   {
     "package": "legislAr",
     "url": "https://github.com/PoliticaArgentina/legislAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
+  },
+  {
+    "package": "legislAr",
+    "url": "https://github.com/PoliticaArgentina/legislAr",
     "via": ["polArverse"],
     "from": "polArverse"
   },
@@ -46,6 +70,12 @@
     "url": "https://github.com/PoliticaArgentina/legislAr",
     "via": ["polArverse", "polArViz"],
     "from": "polArverse"
+  },
+  {
+    "package": "opinAr",
+    "url": "https://github.com/PoliticaArgentina/opinAr",
+    "via": ["polArViz"],
+    "from": "polArViz"
   },
   {
     "package": "opinAr",
