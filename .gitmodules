@@ -3,6 +3,11 @@
 	url = https://github.com/politicaargentina/universe
 	shallow = true
 	branch = HEAD
+[submodule "censAr"]
+	path = censAr
+	url = https://github.com/PoliticaArgentina/censAr
+	shallow = true
+	registered = true
 [submodule "geoAr"]
 	path = geoAr
 	url = https://github.com/PoliticaArgentina/geoAr
