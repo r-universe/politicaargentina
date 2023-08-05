@@ -5,24 +5,24 @@
 [submodule "censAr"]
 	path = censAr
 	url = https://github.com/PoliticaArgentina/censAr
-[submodule "geoAr"]
-	path = geoAr
-	url = https://github.com/PoliticaArgentina/geoAr
-[submodule "electorAr"]
-	path = electorAr
-	url = https://github.com/PoliticaArgentina/electorAr
-[submodule "legislAr"]
-	path = legislAr
-	url = https://github.com/PoliticaArgentina/legislAr
 [submodule "discursAr"]
 	path = discursAr
 	url = https://github.com/PoliticaArgentina/discursAr
+[submodule "electorAr"]
+	path = electorAr
+	url = https://github.com/PoliticaArgentina/electorAr
+[submodule "geoAr"]
+	path = geoAr
+	url = https://github.com/PoliticaArgentina/geoAr
+[submodule "legislAr"]
+	path = legislAr
+	url = https://github.com/PoliticaArgentina/legislAr
 [submodule "opinAr"]
 	path = opinAr
 	url = https://github.com/PoliticaArgentina/opinAr
-[submodule "polArverse"]
-	path = polArverse
-	url = https://github.com/PoliticaArgentina/polArverse
 [submodule "polArViz"]
 	path = polArViz
 	url = https://github.com/PoliticaArgentina/polArViz
+[submodule "polArverse"]
+	path = polArverse
+	url = https://github.com/PoliticaArgentina/polArverse
