@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/politicaargentina/universe
+	url = https://github.com/politicaargentina/politicaargentina.r-universe.dev
 	branch = HEAD
 [submodule "censAr"]
 	path = censAr
